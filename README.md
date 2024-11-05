@@ -2,7 +2,7 @@
 This repository includes the code used for the problem sets presented in the course "KDCR" at the Technion.
 
 ## HW1 - Serial Robotics
-Main filename:  *HW1.m*
+Main filename:  *HW1.m*     
 Report:         *HW1 KDCR.pdf*   
 In this project we found the Forward and Inverse kinematics of a serial robot and conducted a Singularity analysis. 
 
