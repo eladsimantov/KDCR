@@ -4,7 +4,9 @@ This repository includes the code used for the problem sets presented in the cou
 ## HW1 - Serial Robotics
 Main filename:  *HW1.m*     
 Report:         *HW1 KDCR.pdf*   
-In this project we found the Forward and Inverse kinematics of a serial robot and conducted a Singularity analysis. 
+In this project we found the Forward and Inverse kinematics of a serial robot and conducted a Singularity analysis.     
+In addition, we planned its motion using three different velocity profiles (Constant, Trapezoidal, Polynomial).     
+We also computed its torques and moments and compared the kinematics of the different profiles. 
 
 ## HW2 - Parallel Robotics
 Main filename:  *HW2.m*  
